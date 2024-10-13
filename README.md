@@ -1,5 +1,4 @@
 
-```markdown
 # Face Detection and Verification System
 
 This project demonstrates a real-time face detection and verification system using Python, OpenCV, and the DeepFace library. The application captures images from the webcam, detects faces, and verifies them against a reference image.
